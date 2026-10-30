@@ -1,7 +1,15 @@
 {
- "days": {},
- "answers": {},
- "users_total": 0,
- "users_new_week": 0,
- "subscribers": 0
+ "days": {
+  "2026-10-30": {
+   "question": 6,
+   "ai": 4,
+   "ready": 2
+  }
+ },
+ "answers": {
+  "10": 2
+ },
+ "users_total": 1,
+ "users_new_week": 1,
+ "subscribers": 1
 }
